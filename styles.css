@@ -1,0 +1,14 @@
+body {
+    font-family: monospace;
+    text-align: center;
+    background-color: black;
+    color: lime;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+img {
+    width: 50px;
+}
