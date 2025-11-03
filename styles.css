@@ -13,12 +13,26 @@ img {
     width: 100px;
 }
 
+img:hover {
+    background-color: gray;
+}
+
 footer {
     background-color: gray;
 }
 
 a {
   color: red;
+}
+
+button {
+    background-color: black;
+    color: lime;
+    font-family: "Press Start 2P", system-ui;
+}
+
+button:hover {
+    background-color: gray;
 }
 
 .press-start-2p-regular {
